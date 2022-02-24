@@ -1,8 +1,45 @@
 * {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     text-align: center;
+    margin: 50px;
+}
+
+.section {
+    float: left;
+    width: 30%;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: lightgray;
+   
+}
+
+#chickenHead {
+    background-color: yellow;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 0;
+    margin-left: 60%;
+}
+
+#beefHead {
+    background-color: red;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 0;
+    margin-left: 60%;
+}
+
+#sushiHead {
+    background-color: aqua;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 0;
+    margin-left: 60%;
 }
 
