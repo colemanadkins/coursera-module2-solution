@@ -26,7 +26,7 @@ p {
 }
 
 section {
-	background-color: lightgray;
+	background-color: #d3d3d3;
     border:	1px solid black;
 	width: 100%;
 	height: 200px;
@@ -36,7 +36,7 @@ section {
 
 
 #chickenHead {
-    background-color: yellow;
+    background-color: #ffdab9;
     text-align: center;
     border: 1px solid black;
     margin-top: 0;
@@ -44,7 +44,8 @@ section {
 }
 
 #beefHead {
-    background-color: red;
+    background-color: #8b0000;
+    color: white;
     text-align: center;
     border: 1px solid black;
     margin-top: 0;
@@ -52,7 +53,7 @@ section {
 }
 
 #sushiHead {
-    background-color: aqua;
+    background-color: #ffffe0;
     text-align: center;
     border: 1px solid black;
     margin-top: 0;
