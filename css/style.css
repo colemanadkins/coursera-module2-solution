@@ -39,7 +39,8 @@ section {
 #chickenHead {
     background-color: #ffdab9;
     text-align: center;
-    border: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     margin-top: 0;
     margin-left: 60%;
 }
@@ -47,14 +48,16 @@ section {
     background-color: #8b0000;
     color: white;
     text-align: center;
-    border: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     margin-top: 0;
     margin-left: 60%;
 }
 #sushiHead {
     background-color: #ffffe0;
     text-align: center;
-    border: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     margin-top: 0;
     margin-left: 60%;
 }
